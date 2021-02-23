@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="findOne"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="boston"/>
+			<item value="#featured-books"/>
+			<item value="indicators"/>
+			<item value="findOne"/>
+			<item value="textarea"/>
+			<item value="col-md-8"/>
+			<item value="templates/bookList.html"/>
+			<item value="mceu_11-body"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+</section>

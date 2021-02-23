@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\Stefan Stojkovski\Desktop\Bookstore\Bookstore\.metadata\.plugins\org.eclipse.jdt.core
+1298296043.index
+1725080762.index
+2511520382.index
+4184094059.index
+2615422491.index
+677021923.index
+2872044937.index
+1760752846.index

@@ -1,3 +1,3 @@
 # Bookstore
 
-Simple e-commerce application
+Simple e-commerce bookstore website
